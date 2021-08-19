@@ -44,4 +44,5 @@ I am active on LinkedIN and Instagram. You can reach out to me I will be happy t
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SMukh123&theme=blue-green" alt="ShinjonMukherjee" /></p>
   </div>
-[![SMukh123's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SMukh123&theme=xcode)](https://git.io/SMukh123)
+  
+  [![SMukh123's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SMukh123&theme=github)](https://git.io/SMukh123)
