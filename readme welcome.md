@@ -1,5 +1,5 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shinjon-mukherjee-8b9b1120a/" target="_blank"> Shinjon Mukherjee </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<img width="40%" align="right"   src="https://tcrn.ch/3D5ftH0" >
+<img width="20%" align="right"   src="https://tcrn.ch/3D5ftH0" >
 A bit about Myself, I am <b>Shinjon Mukherjee</b> pursuing a <b>Computer Science  And Engineering Degree</b> from Asansol Engineering College. As of now, I am focused on <b>web development, Cyber Security, Data Analytics and Machine Learning </b> but still, wish to explore many fields. ⚡
 <h3 align="center">A Passionate Web Developer | Data Analyst | Cyber Security | Machine Learning enthusiast </h3>
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Smukh123&label=Profile%20views&color=6805D3&style=flat" alt="ShinjonMukherjee" /> </p></h3>
