@@ -28,7 +28,8 @@ I have learned webdevelopment and having knowledge of HTML,CSS & Javascript, PHP
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /> 
    
 </p>
-  
+  <h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
+
 <h1 align="center">Let's Get Connected</h1>
 I am active on LinkedIN and Instagram. You can reach out to me I will be happy to help</p>
 <div align="center">
