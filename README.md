@@ -37,12 +37,12 @@ I am active on LinkedIN and Instagram. You can reach out to me I will be happy t
 </div>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SMukh123&show_icons=true&theme=blue-green" alt="ShinjonMukherjee" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SMukh123&show_icons=true&theme=blue-green&locale=en&layout=compact" alt="ShinjonMukherjee" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Smukh123&show_icons=true&theme=blue-green" alt="ShinjonMukherjee" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smukh123&show_icons=true&theme=blue-green&locale=en&layout=compact" alt="ShinjonMukherjee" /></td>
   </tr>
 </table>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SMukh123&theme=blue-green" alt="ShinjonMukherjee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Smukh123&theme=blue-green" alt="ShinjonMukherjee" /></p>
   </div>
   
-  [![SMukh123's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SMukh123&theme=github)](https://git.io/SMukh123)
+  [![Smukh123's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Smukh123&theme=github)](https://git.io/Smukh123)
