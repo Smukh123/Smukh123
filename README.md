@@ -1,3 +1,4 @@
+![header](https://user-images.githubusercontent.com/82530706/132207473-43393779-d8d6-4eda-a8f8-550725e8a395.jpg)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shinjon-mukherjee-8b9b1120a/" target="_blank"> Shinjon Mukherjee </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="20%" align="right"   src="https://tcrn.ch/3D5ftH0" >
 A bit about Myself, I am <b>Shinjon Mukherjee</b> pursuing a <b>Computer Science  And Engineering Degree</b> from Asansol Engineering College. As of now, I am focused on <b>web development, Cyber Security, Data Analytics and Machine Learning </b> but still, wish to explore many fields. ⚡
@@ -20,10 +21,21 @@ I have learned webdevelopment and having knowledge of HTML,CSS & Javascript, PHP
  <img alt="Vs-Code" src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
  
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
     <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react" />
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /> 
    
