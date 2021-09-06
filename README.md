@@ -42,6 +42,18 @@ I have learned webdevelopment and having knowledge of HTML,CSS & Javascript, PHP
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /> 
    
 </p>
+   
+   I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+<h1 align="center">Projects</h1>
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [My Portfolio Website](https://smukh123.github.io/Shinjon-Portfolio/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
+| [Machine Learning Prediction Model](https://github.com/Smukh123/Supervised_ML_Task_1/blob/main/TSF_TASK_1.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
+| [Basic-Banking-Website](https://spectrum-bank.herokuapp.com/)     | In this Website, we can view all customers' details, transfer money and can view the transaction history for the same.
+| [Fetching Weather Info In Python](https://github.com/Smukh123/ShapeAI_Python_CyberSecurity)     | Program To Fetch Weather Info Of A City With A 3rd Party API And Recording The Info In A Text File.
+| [Data Visualization In Python](https://github.com/Smukh123/ShapeAI_Shinjon_mukherjee_2/blob/main/SHINJON_MUKHERJEE's_Project.ipynb)     | Data Visualization Plays An Essential Role In The Representation Of Both Small And Large Scale Data.
+| [Payment Gateway Integration](https://smukh123.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used.
   <h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
 
 <h1 align="center">Let's Get Connected</h1>
